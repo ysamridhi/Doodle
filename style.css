@@ -10,7 +10,7 @@
   width: auto;
   height: 50px;
   position: fixed;
-  top: 1%;
+  bottom: 1%;
   left: 50%;
   transform: translateX(-50%);
   display: flex;
